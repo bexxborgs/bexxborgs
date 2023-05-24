@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with speaking and pratice english 
 - 💬 Ask me about food end pop music
-- 📫 How to reach me: ...
+- 📫 How to reach me my linkedin
 - 😄 Pronouns: she
 - ⚡ Fun fact: 2 cats and 1 dog
 -->
