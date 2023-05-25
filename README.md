@@ -1,9 +1,13 @@
 
 ## ✨ Olá, eu sou a Rebeca 👋✨
 
-## Sobre mim
-Sou academica em analise e desenvolvimento de sistemas atuo na area de qualidade e testes de software. Tenho interesse em area de qualidade e desenvolvimento.
-Estou sempre em busca de aprender coisas novas relacionadas à tecnologia.
+##  bem-vindo(a)!
+
+Comecei minha carreira como estagiária na área da educação, desenvolvendo habilidades de comunicação, flexibilidade e resolução de problemas. Em seguida, trabalhei como auxiliar e operadora de produção, adquirindo capacidade de trabalho em equipe, agilidade, organização e habilidade para lidar com prazos.
+
+Essas experiências profissionais me proporcionaram uma melhor compreensão das necessidades do público, desenvolvendo empatia e compreensão. Agora, estou em busca de uma oportunidade em uma empresa que valorize a qualidade, confiança e inclusão/diversidade.
+
+Atualmente, estou na área de tecnologia e busco aprimoramento contínuo. Tenho um ano de experiência como Analista de Testes, com habilidades em comunicação eficaz, trabalho em equipe, vivência em metodologia ágil, resolução de problemas e pensamento estratégico.
 
 ## Habilidades
 - Linguagens de programação: JAVA
