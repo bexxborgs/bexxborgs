@@ -13,15 +13,15 @@ Atualmente, estou na área de tecnologia e busco aprimoramento contínuo. Tenho 
 - Linguagens de programação: JAVA
 - Frameworks e tecnologias:postman,cypress
 
-- Outras habilidades relevantes:
-Testes de Software: Conhecimento em diferentes tipos e técnicas de testes de software.
-Metodologias Ágeis: Familiaridade com metodologias ágeis, como Scrum e Kanban.
-Habilidades de Comunicação: Capacidade de se comunicar de forma clara e eficaz.
-Gerenciamento de Defeitos: Habilidade em identificar, relatar e gerenciar defeitos.
-Automação de Testes: Experiência em automação de testes usando ferramentas adequadas.
-Pensamento Analítico e Resolução de Problemas: Capacidade de analisar problemas e propor soluções eficazes.
-Atenção aos Detalhes: Habilidade em identificar e lidar com detalhes importantes.
-Mentalidade Orientada a Qualidade: Foco na busca por melhorias contínuas e adoção de boas práticas de qualidade.
+Outras habilidades relevantes:
+
+-Metodologias Ágeis: Scrum e Kanban.
+-Ferramentas de gerenciamento de projetos: Jira, Trello.
+-Database": SQL e noSQL
+
+
+
+
 
 
 ## 📫  Contato
