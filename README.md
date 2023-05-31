@@ -32,3 +32,7 @@ Você pode entrar em contato comigo por meio dos seguintes canais:
 
 
 Sinta-se à vontade para explorar meus projetos e contribuições. Estou sempre aberto(a) a colaborações e novas oportunidades!
+
+
+## My favorite songs
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1EZT8cSzhJA9lL?utm_source=generator&theme=0" width="80%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
