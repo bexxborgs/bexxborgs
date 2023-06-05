@@ -1,13 +1,19 @@
 
-## ✨ Olá, eu sou a Rebeca 👋✨
+# ✨ Olá, eu sou a Rebeca 👋✨
+##  Bem-vindo(a)!
 
-##  bem-vindo(a)!
+Sou uma Analista de Testes Jr. com experiência em elaboração de planos de testes, casos de testes, testes funcionais, testes de software, cenários de testes e testes exploratórios. Tenho habilidades em comunicação eficaz, trabalho em equipe e vivência em metodologia ágil.
 
-Atualmente, estou na área de tecnologia e busco aprimoramento contínuo. Com experiência como Analista de Testes, com habilidades em comunicação eficaz, trabalho em equipe, vivência em metodologia ágil, resolução de problemas e pensamento estratégico.
+Durante minha trajetória, executei testes utilizando diversas ferramentas e bancos de dados, validando a funcionalidade de sistemas e trabalhando com massa de dados realistas para simular cenários abrangentes. Utilizei SQL para consulta e manipulação de dados, garantindo a integridade do banco de dados.
 
-Comecei minha carreira como estagiária na área da educação, desenvolvendo habilidades de comunicação, flexibilidade e resolução de problemas. Em seguida, trabalhei como auxiliar e operadora de produção, adquirindo capacidade de trabalho em equipe, agilidade, organização e habilidade para lidar com prazos. Essas experiências profissionais me proporcionaram uma melhor compreensão das necessidades do público, desenvolvendo empatia e compreensão.
+Também criei casos de uso e planos de testes, priorizando a identificação e correção de defeitos para assegurar a qualidade dos produtos. Realizei testes de regressão, evitando impactos negativos nas funcionalidades existentes.
 
-Agora, estou em busca de uma oportunidade em uma empresa que valorize a qualidade, confiança e inclusão/diversidade.
+Meu compromisso é garantir a qualidade dos projetos em que trabalho, elaborando estimativas e planos de testes precisos e eficazes. Utilizo minhas habilidades técnicas e não técnicas para registrar não conformidades, conduzir testes de backend, APIs e webservices, planejar testes exploratórios, executar testes automáticos e analisar cenários.
+
+Tenho experiências anteriores na área da educação e como auxiliar e operadora de produção, o que me proporcionou habilidades de comunicação, trabalho em equipe e lidar com prazos.
+
+Estou em busca de uma oportunidade em uma empresa que valorize a qualidade, confiança e inclusão/diversidade.
+
 
 ## Habilidades
 - Linguagens de programação: JAVA
