@@ -6,8 +6,6 @@ Sou uma Analista de Testes com experiência em elaboração de planos de testes,
 
 Durante minha trajetória, executei testes utilizando diversas ferramentas e bancos de dados, validando a funcionalidade de sistemas e trabalhando com massa de dados realistas para simular cenários abrangentes. Utilizei SQL para consulta e manipulação de dados, garantindo a integridade do banco de dados.
 
-Também criei casos de uso e planos de testes, priorizando a identificação e correção de defeitos para assegurar a qualidade dos produtos. Realizei testes de regressão, evitando impactos negativos nas funcionalidades existentes.
-
 Meu compromisso é garantir a qualidade dos projetos em que trabalho, elaborando estimativas e planos de testes precisos e eficazes. Utilizo minhas habilidades técnicas e não técnicas para registrar não conformidades, conduzir testes de backend, APIs e webservices, planejar testes exploratórios, executar testes automáticos e analisar cenários.
 
 Tenho experiências anteriores na área da educação e como auxiliar e operadora de produção, o que me proporcionou habilidades de comunicação, trabalho em equipe e lidar com prazos.
