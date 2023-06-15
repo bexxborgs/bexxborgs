@@ -2,7 +2,7 @@
 # ✨ Olá, eu sou a Rebeca 👋✨
 ##  Bem-vindo(a)!
 
-Sou uma Analista de Testes Jr. com experiência em elaboração de planos de testes, casos de testes, testes funcionais, testes de software, cenários de testes e testes exploratórios. Tenho habilidades em comunicação eficaz, trabalho em equipe e vivência em metodologia ágil.
+Sou uma Analista de Testes com experiência em elaboração de planos de testes, casos de testes, testes funcionais, testes de software, cenários de testes e testes exploratórios. Tenho habilidades em comunicação eficaz, trabalho em equipe e vivência em metodologia ágil.
 
 Durante minha trajetória, executei testes utilizando diversas ferramentas e bancos de dados, validando a funcionalidade de sistemas e trabalhando com massa de dados realistas para simular cenários abrangentes. Utilizei SQL para consulta e manipulação de dados, garantindo a integridade do banco de dados.
 
