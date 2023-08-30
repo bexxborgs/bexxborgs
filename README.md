@@ -13,17 +13,6 @@ Tenho experiências anteriores na área da educação e como auxiliar e operador
 Estou em busca de uma oportunidade em uma empresa que valorize a qualidade, confiança e inclusão/diversidade.
 
 
-## Habilidades
-- Linguagens de programação: JAVA
-- Frameworks e tecnologias:postman,cypress
-
-Outras habilidades relevantes:
-
--Metodologias Ágeis: Scrum e Kanban.
--Ferramentas de gerenciamento de projetos: Jira, Trello.
--Database": SQL e noSQL
-
-
 
 
 
